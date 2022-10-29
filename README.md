@@ -2,8 +2,6 @@
 
 ![XxCrazy's GitHub stats](https://github-readme-stats.vercel.app/api?username=XxCrazy1&show_icons=true&theme=transparent)
 
-
-
 ### My specialties include
 
 ![image](https://user-images.githubusercontent.com/109563862/198836009-073e8677-5dd2-4357-bccc-9140f6850f5b.png)
@@ -45,3 +43,5 @@
 ![image](https://user-images.githubusercontent.com/109563862/198836377-534b1281-5ecf-44da-97ab-ffe7fe7b63de.png)
 ![image](https://user-images.githubusercontent.com/109563862/198836384-302affef-a5de-41ac-86a8-70932ab452b6.png)
 ![image](https://user-images.githubusercontent.com/109563862/198836389-b4643e10-3914-42ac-ab6b-2079afde073f.png)
+
+![User Collapsed](https://user-images.githubusercontent.com/109563862/198853239-db69ca20-11a5-4908-adec-b0d04e721ac6.png)
