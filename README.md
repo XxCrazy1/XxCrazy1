@@ -5,9 +5,6 @@
 ### My specialties include
 
 ![image](https://user-images.githubusercontent.com/109563862/198836009-073e8677-5dd2-4357-bccc-9140f6850f5b.png)
-![image](https://user-images.githubusercontent.com/109563862/198836018-ff291448-73ab-4c4c-bdb2-40d1117dc11d.png)
-![image](https://user-images.githubusercontent.com/109563862/198836023-373a8cdc-a4c1-4eea-8eaf-07572852b67b.png)
-![image](https://user-images.githubusercontent.com/109563862/198836029-d4ad9e7b-7047-47d7-bb36-c975c006a5bc.png)
 ![image](https://user-images.githubusercontent.com/109563862/198836045-88739396-d473-47e0-a7b7-a844f7575c67.png)
 ![image](https://user-images.githubusercontent.com/109563862/198836053-068abbef-ea69-4085-a1c0-40bccb8391d0.png)
 ![image](https://user-images.githubusercontent.com/109563862/198836076-7d2ec3e1-e9bb-42be-801b-07f2172cbefe.png)
