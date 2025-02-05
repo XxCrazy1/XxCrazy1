@@ -1,6 +1,7 @@
 ### Hello, my name is Leandro but I'm known as XxCrazy
 
 ![XxCrazy's GitHub stats](https://github-readme-stats.vercel.app/api?username=XxCrazy1&show_icons=true&theme=transparent)
+[![Portfolio Status](https://api.netlify.com/api/v1/badges/2fc965b6-f306-429f-abfb-3691119d230f/deploy-status)](https://app.netlify.com/sites/lportoflio/deploys)
 
 ### My specialties include
 
